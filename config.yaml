@@ -1,0 +1,26 @@
+title: Stackbit Fresh Theme
+baseURL: /
+params:
+  layout_style: overflow
+  palette: blue
+  header:
+    title: Dinesh Rathee
+    tagline: "Dinesh Rathee , Young IT Professional \U0001F4BB Working in Dublin (Ireland) \U0001F49A\r\n\r\nEnthusiast, Innovative, Loves Travelling \U0001F6E3 & Exploring ⛰\U0001F6B5‍♂\r\n\r\n#Fan of @elonmusk \U0001F680\U0001F6F0, Proud Son\U0001F468‍\U0001F393with Big Dreams.\U0001F3C1"
+    profile_img: >-
+      https://res.cloudinary.com/practicaldev/image/fetch/s--kEKJ5Szs--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/304867/831723c4-89c1-4e04-912d-413e1056d26b.jpg
+    bg: dark
+    has_nav: true
+    has_social: true
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+        new_window: true
+      - text: Generated from DEV
+        url: 'https://dev.to/connecting-with-stackbit'
+        new_window: true
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
